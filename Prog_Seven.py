@@ -11,3 +11,9 @@ count=1
 for i in direct:
     print("\n\n\t",count," - ",i)
     count+=1
+    
+#if looking for any special file which is ending with something just use 
+# for i in direct:
+# if i.endswith(".exe"):
+#    dir_exe.append(i)
+# print(dir_exe)
